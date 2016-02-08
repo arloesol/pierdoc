@@ -1,0 +1,62 @@
+# project definitions
+project: pier_users
+audience: users
+product: doc
+platform: web
+version: "1.0"
+output: web
+destination: ../doc_outputs/pier/users
+topnav_title: Pier Documentation
+homepage_title: Pier Documentation
+site_title: Pier Documentation
+project_folder: pier
+company_name: Arloesol
+footer_image_location: ../common_images/company_logo.png
+github_editme_path: arloesol/pierdoc/edit/reviews
+disqus_shortname: dockerpier
+# variables
+
+
+sidebar_tagline: Pier
+sidebar_version: Version 1.0
+theme_file: theme-blue.css
+
+port: 4009
+
+exclude:
+  - _site
+  - _drafts
+  - configs/
+#- doc/pier_writers*
+
+# same for all
+host: 127.0.0.1
+feedback_email: pier@arloesol.com
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  auto_ids: true
+
+collections:
+  tooltips:
+    output: false
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      comments: true
+      search: true
+  -
+    scope:
+      path: ""
+      type: "tooltips"
+    values:
+      layout: "page"
+      comments: true
+      search: true
+      tooltip: true

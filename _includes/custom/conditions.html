@@ -1,3 +1,24 @@
+{% comment %}
+ _   _
+| | | |
+| | | |___  ___ _ __ ___
+| | | / __|/ _ \ '__/ __|
+| |_| \__ \  __/ |  \__ \
+ \___/|___/\___|_|  |___/
+{% endcomment %}
+
+{% if site.project == "pier_users" %}
+{% assign audience = "users" %}
+{% assign sidebar = site.data.pier.pier_sidebar.entries %}
+{% assign topnav = site.data.pier.pier_topnav.topnav %}
+{% assign topnav_dropdowns = site.data.pier.pier_topnav.topnav_dropdowns %}
+{% assign version = "1.0" %}
+{% assign product = "doc" %}
+{% assign platform = "web" %}
+{% assign projectTags = site.data.pier.pier_tags.allowed-tags %}
+{% assign projectFolder = "pier" %}
+{% endif %}
+
 
 {% comment %}
 __        __    _ _
