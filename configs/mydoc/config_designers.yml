@@ -38,7 +38,7 @@ exclude:
   - doc/mydoc_writers*
 
 # same for all
-host: 127.0.0.1
+host: 0.0.0.0
 feedback_email: tomjohnson1492@gmail.com
 
 highlighter: rouge
