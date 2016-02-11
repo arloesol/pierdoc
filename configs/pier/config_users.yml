@@ -1,11 +1,11 @@
 # project definitions
 project: pier_users
 audience: users
-product: doc
-platform: web
-version: "1.0"
+product: all
+platform: all
+version: all
 output: web
-destination: ../doc_outputs/pier/users
+destination: ../_site/pier
 topnav_title: Pier Documentation
 homepage_title: Pier Documentation
 site_title: Pier Documentation
@@ -27,7 +27,6 @@ exclude:
   - _site
   - _drafts
   - configs/
-#- doc/pier_writers*
 
 # same for all
 host: 0.0.0.0

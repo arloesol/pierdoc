@@ -62,12 +62,6 @@
 
 
                 <!-- special insertion -->
-
-               {% if site.project == "mydoc_designers" or site.project == "mydoc_writers" %}
-                {% comment %}
-                {% include custom/mydoc/custom_menu.html %}
-                {% endcomment %}
-                {% endif %}
                 {% include feedback.html %}
 
 
@@ -84,9 +78,9 @@
                             resultsContainer: document.getElementById('results-container'),
                             dataSource: '../search.json',
                             searchResultTemplate: '<li><a href="{url}" title="{{page.title | replace: "'", "\"}}">{title}</a></li>',
-                        noResultsText: '{{site.data.strings.search_no_results_text}}',
-                                limit: 10,
-                                fuzzy: true,
+                            noResultsText: '{{site.data.strings.search_no_results_text}}',
+                            limit: 10,
+                            fuzzy: true,
                         })
                     </script>
                      <!--end search-->
