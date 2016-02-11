@@ -5,13 +5,13 @@ product: all
 platform: all
 version: all
 output: web
-destination: ../_site/pier
+destination: ./_site/pier_users
 topnav_title: Pier Documentation
 homepage_title: Pier Documentation
 site_title: Pier Documentation
 project_folder: pier
 company_name: Arloesol
-footer_image_location: ../common_images/company_logo.png
+footer_image_location: ./common_images/company_logo.png
 github_editme_path: arloesol/pierdoc/edit/review
 disqus_shortname: dockerpier
 # variables
