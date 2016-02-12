@@ -8,26 +8,22 @@ homepage: true
 
 ## What's Pier ?
 
-Pier allows you to manage your private docker repositories securely in the cloud
+Pier allows you to manage your private docker repositories securely in a registry in the cloud
 
-* Bootstrap framework
-* Sidebar for table of contents
-* Top navigation bar with drop-down menus
-* PDF generation (through Prince XML utility)
-* Build scripts to automate the workflow
-* Notes, tips, and warning information notes
-* A nifty system for creating links to different pages
-* Tags for alternative nativation
-* Content sharing across projects
-* Emphasis on pages, not posts
-* Relative (rather than absolute) link structure, so you can push the outputs anywhere and easily view them
-
-For more discussion about the available features, see {{site.data.pier.pier_urls.pier_supported_features.link}}.
+* Pier uses the open source [Docker registry] 
+* Pier secures your data by using the [OVH object storage] as the registry's backend
+* You easily manage your docker repositories & access to them via the [Pier website] 
 
 ## Getting started
 
-To get started, see these three topics:
+To get started, see these topics:
 
-1. {{site.data.pier.urls.getting_started.link}}
-2. {{site.data.pier.urls.configuration_settings.link}}
-3. {{site.data.pier.urls.adding_new_projects.link}}
+1. {{site.data.pier.urls.create_an_account.link}}
+1. {{site.data.pier.urls.add_a_client.link}}
+1. {{site.data.pier.urls.add_a_repository.link}}
+1. {{site.data.pier.urls.docker_getting_started.link}}
+1. {{site.data.pier.urls.docker_command_line.link}}
+
+[Docker registry]: https://docs.docker.com/registry/
+[OVH object storage]: https://www.ovh.com/us/cloud/storage/object-storage.xml
+[Pier website]: https://www.pier.ovh

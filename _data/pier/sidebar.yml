@@ -19,24 +19,16 @@ entries:
       version: all
       output: web
 
-    - title: What's docker
-      url: /pier/pier_supported_features.html
+    - title: What's docker ?
+      url: /pier/whats_docker.html
       audience: users
       platform: all
       product: all
       version: all
       output: web
 
-    - title: About the theme author
-      url: /pier/pier_about.html
-      audience: users
-      platform: all
-      product: all
-      version: all
-      output: web
-
-    - title: Support
-      url: /pier/pier_support.html
+    - title: About Arloesol
+      url: /pier/about_arloesol.html
       audience: users
       platform: all
       product: all
@@ -50,16 +42,40 @@ entries:
     version: all
     output: web
     items:
-    - title: 1. Build the default project
-      url: /pier/pier_getting_started.html
+    - title: Create an account
+      url: /pier/create_an_account.html
       audience: users
       platform: all
       product: all
       version: all
       output: web
 
-    - title: 2. Add a new project
-      url: /pier/pier_adding_new_projects.html
+    - title: Add a client
+      url: /pier/add_a_client.html
+      audience: users
+      platform: all
+      product: all
+      version: all
+      output: web
+
+    - title: Add a repository
+      url: /pier/add_a_repository.html
+      audience: users
+      platform: all
+      product: all
+      version: all
+      output: web
+
+    - title: Docker getting started
+      url: /pier/docker_getting_started.html
+      audience: users
+      platform: all
+      product: all
+      version: all
+      output: web
+
+    - title: Use docker command line
+      url: /pier/docker_command_line.html
       audience: users
       platform: all
       product: all
