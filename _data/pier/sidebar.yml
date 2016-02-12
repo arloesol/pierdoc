@@ -4,57 +4,32 @@
 entries:
 - title: Sidebar
   subcategories:
-  - title:
-    audience: writers, designers
-    platform: all
-    product: all
-    version: all
-    output: pdf
-    type: frontmatter
-    items:
-    - title:
-      url: /titlepage.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: pdf
-      type: frontmatter
-    - title:
-      url: /tocpage.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: pdf
-      type: frontmatter
-
   - title: Overview
-    audience: writers, designers
+    audience: users
     platform: all
     product: all
     version: all
-    output: web, pdf
+    output: web
     items:
     - title: Introduction
       url: /pier/home.html
-      audience: writers, designers
+      audience: users
       platform: all
       product: all
       version: all
-      output: web, pdf
+      output: web
 
-    - title: Supported features
+    - title: What's docker
       url: /pier/pier_supported_features.html
-      audience: writers, designers
+      audience: users
       platform: all
       product: all
       version: all
-      output: web, pdf
+      output: web
 
     - title: About the theme author
       url: /pier/pier_about.html
-      audience: writers, designers
+      audience: users
       platform: all
       product: all
       version: all
@@ -62,515 +37,31 @@ entries:
 
     - title: Support
       url: /pier/pier_support.html
-      audience: writers, designers
+      audience: users
       platform: all
       product: all
       version: all
       output: web
 
-  - title: Get started
-    audience: writers, designers
-    platform: all
-    product: all
-    version: all
-    output: web, pdf
-    items:
-    - title: 1. Build the default project
-      url: /pier/pier_getting_started.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: 2. Add a new project
-      url: /pier/pier_adding_new_projects.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: 3. Decide on your project's attributes
-      url: /pier/pier_decide_on_attributes.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: 4. Set the configuration options
-      url: /pier/pier_configuration_settings.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: 5. Customize the conditions file
-      url: /pier/pier_conditions_file_customization.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: 6. Configure the sidebar
-      url: /pier/pier_configure_sidebar.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: 7. Configure the top navigation
-      url: /pier/pier_top_navigation.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: 8. Customize the URL generator
-      url: /pier/pier_url_generator_customization.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: 9. Set up Prince XML
-      url: /pier/pier_princexml_setup.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: 10. Configure the build scripts
-      url: /pier/pier_build_scripts.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-  - title: Authoring
-    audience: writers, designers
-    platform: all
-    product: all
-    version: all
-    output: web, pdf
-    items:
-    - title: Pages
-      url: /pier/pier_pages.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: WebStorm Text Editor
-      url: /pier/pier_webstorm_text_editor.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Conditional logic
-      url: /pier/pier_conditional_logic.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Content reuse
-      url: /pier/pier_content_reuse.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Collections
-      url: /pier/pier_collections.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-  - title: Navigation
-    audience: writers, designers
-    platform: all
-    product: all
-    version: all
-    output: web, pdf
-    items:
-    - title: Sidebar navigation
-      url: /pier/pier_sidebar_navigation.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Tags
-      url: /pier/pier_tags.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Series
-      url: /pier/pier_series.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-  - title: Formatting
-    audience: writers, designers
-    platform: all
-    product: all
-    version: all
-    output: web, pdf
-    items:
-    - title: Tooltips
-      url: /pier/pier_adding_tooltips.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Alerts
-      url: /pier/pier_alerts.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Icons
-      url: /pier/pier_icons.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Images
-      url: /pier/pier_images.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Labels
-      url: /pier/pier_labels.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Links
-      url: /pier/pier_hyperlinks.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Navtabs
-      url: /pier/pier_navtabs.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Video embeds
-      url: /pier/pier_video_embeds.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Tables
-      url: /pier/pier_tables.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Syntax highlighting
-      url: /pier/pier_syntax_highlighting.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-  - title: Handling reviews
-    audience: writers, designers
-    platform: all
-    product: all
-    version: all
-    output: web, pdf
-    items:
-    - title: Commenting on files
-      url: /pier/pier_commenting_on_files.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-  - title: Publishing
-    audience: writers, designers
-    platform: all
-    product: all
-    version: all
-    output: web, pdf
-    items:
-
-    - title: Build arguments
-      url: /pier/pier_build_arguments.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Themes
-      url: /pier/pier_themes.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Link validation
-      url: /pier/pier_link_validation.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Check page title consistency
-      url: /pier/pier_title_checker.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Generating PDFs
-      url: /pier/pier_generating_pdfs.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Excluding files
-      url: /pier/pier_excluding_files.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Help APIs and UI tooltips
-      url: /pier/pier_help_api.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Search configuration
-      url: /pier/pier_search_configuration.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: iTerm profiles
-      url: /pier/pier_iterm_profiles.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Pushing builds to server
-      url: /pier/pier_push_build_to_server.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Getting around the password prompts in SCP
-      url: /pier/pier_no_password_prompts_scp.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-  - title: Special layouts
-    audience: writers, designers
-    platform: all
-    product: all
-    version: all
-    output: web, pdf
-    items:
-
-    - title: Knowledge-base layout
-      url: /pier/pier_kb_layout.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Scroll layout
-      url: /pier/pier_scroll.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Shuffle layout
-      url: /pier/pier_shuffle.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: FAQ layout
-      url: /pier/pier_faq.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-    - title: Glossary layout
-      url: /pier/pier_glossary.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-  - title: Troubleshooting
-    audience: writers, designers
-    platform: all
-    product: all
-    version: all
-    output: web, pdf
-    items:
-
-    - title: Troubleshooting
-      url: /pier/pier_troubleshooting.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: web, pdf
-
-  - title: Tag archives
-    audience: writers, designers
+  - title: Getting started
+    audience: users
     platform: all
     product: all
     version: all
     output: web
     items:
-
-    - title: Tag archives overview
-      url: /pier/pier_tag_archives_overview.html
-      audience: writers, designers
+    - title: 1. Build the default project
+      url: /pier/pier_getting_started.html
+      audience: users
       platform: all
       product: all
       version: all
       output: web
 
-      thirdlevel:
-      - title: Tag archive pages
-        audience: writers, designers
-        platform: all
-        version: all
-        product: all
-        output: web
-        thirdlevelitems:
-        - title: Getting started pages
-          url: /pier/tag_getting_started.html
-          audience: writers, designers
-          platform: all
-          version: all
-          product: all
-          output: web
-
-        - title: Formatting pages
-          url: /pier/tag_formatting.html
-          audience: writers, designers
-          platform: all
-          version: all
-          product: all
-          output: web
-
-        - title: Navigation pages
-          url: /pier/tag_navigation.html
-          audience: writers, designers
-          platform: all
-          version: all
-          product: all
-          output: web
-
-        - title: Content types pages
-          url: /pier/tag_content_types.html
-          audience: writers, designers
-          platform: all
-          version: all
-          product: all
-          output: web
-
-        - title: Publishing pages
-          url: /pier/tag_publishing.html
-          audience: writers, designers
-          platform: all
-          version: all
-          product: all
-          output: web
-
-        - title: Special layout pages
-          url: /pier/tag_special_layouts.html
-          audience: writers, designers
-          platform: all
-          version: all
-          product: all
-          output: web
-
-        - title: Collaboration pages
-          url: /pier/tag_collaboration.html
-          audience: writers, designers
-          platform: all
-          version: all
-          product: all
-          output: web
+    - title: 2. Add a new project
+      url: /pier/pier_adding_new_projects.html
+      audience: users
+      platform: all
+      product: all
+      version: all
+      output: web

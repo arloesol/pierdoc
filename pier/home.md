@@ -1,14 +1,14 @@
 ---
 title: Introduction
 tags: [getting_started]
-audience: field engineers, clients
+audience: users
 type: first_page
 homepage: true
 ---
 
-## Survey of features
+## What's Pier ?
 
-Some of the more prominent features of this theme include the following:
+Pier allows you to manage your private docker repositories securely in the cloud
 
 * Bootstrap framework
 * Sidebar for table of contents
