@@ -31,7 +31,7 @@ A docker container is a running (or stopped) docker image, i.e. it's an docker i
 
 It also has a unique 12 character ID - a container ID
 
-When a docker container is created a mutable (read-write) layer is added on top of the immutable docker image layers and various settings including network ports, container name, ID and resource limits are initialized.
+When a docker container is created a mutable (read-write) layer is added on top of the immutable docker image layers and various settings including network ports, container name, ID and resource limits are initialized. Any changes to the filesystem are stored in the mutable upper layer of the container. 
 
 When a container is running executing processes are linked to the container
 

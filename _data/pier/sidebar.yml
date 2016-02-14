@@ -27,6 +27,14 @@ entries:
       version: all
       output: web
 
+    - title: Pier pricing
+      url: /pier/pricing.html
+      audience: users
+      platform: all
+      product: all
+      version: all
+      output: web
+
     - title: About Arloesol
       url: /pier/about_arloesol.html
       audience: users

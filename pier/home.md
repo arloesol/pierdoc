@@ -12,7 +12,8 @@ Pier allows you to manage your private docker repositories securely in a registr
 
 * Pier uses the open source [Docker registry] 
 * Pier secures your data by using the [OVH object storage] as the registry's backend
-* You easily manage your docker repositories & access to them via the [Pier website] 
+* You easily manage your docker repositories & access to them via the [Pier website]
+* [Pricing] is based on your storage and network use 
 
 ## Getting started
 
@@ -27,3 +28,4 @@ To get started, see these topics:
 [Docker registry]: https://docs.docker.com/registry/
 [OVH object storage]: https://www.ovh.com/us/cloud/storage/object-storage.xml
 [Pier website]: https://www.pier.ovh
+[Pricing]: pricing

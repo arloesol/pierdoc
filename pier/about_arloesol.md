@@ -10,14 +10,11 @@ homepage: false
 
 [Arloesol] provides IT solutions that simply work for you
 
-A lot of attention and care is given to make sure that installation, maintenance, configuration and use of our solutions is as simple as possible
+Via the [Pier website] Arloesol offers an easy way for you to store your private docker images in the cloud
 
-Our solutions are also available as Software as a Service which frees you completely from the installation and maintenance of the solution and lets you concentrate on providing value to your business and customers
+A lot of attention and care is given to make sure that our solutions are as simple as possible
 
- 
-
-We are strong believers in the power of open source and cloud computing
-
-We use both extensively and aim to contribute back to these communities by making sure our solutions work well with other cloud solutions and by contributing to some of our favorite open source projects
+If you have any suggestions or issues with our Pier solution please use our [suggestions box]
 
 [Arloesol]: https://www.arloesol.com
+[Pier website]: https://www.pier.ovh
