@@ -116,4 +116,4 @@ Except for payments due under these Terms, neither party will be responsible for
 [www.pier.ovh]: https://www.pier.ovh
 [User Documentation]: http://docs.pier.ovh
 [Pricing]: http://docs.pier.ovh/pier/pricing
-[Privay Policy]: http://docs.pier.ovh/pier/privacy_policy
+[Privacy Policy]: http://docs.pier.ovh/pier/privacy_policy
