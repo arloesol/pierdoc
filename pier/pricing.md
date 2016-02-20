@@ -12,13 +12,13 @@ Docker images take up space in the [OVH object storage] data backend
  
 Each push or pull of a docker image causes network use
 
-## Account types
+## Pier plans
 
-We offer 3 account types : Basic, Silver and Gold
+We offer 3 Pier plans : Basic, Silver and Gold
 
-Each account type offers a certain level of data storage and network use per month
+Each plan offers a certain level of data storage and network use per month
 
-You can pay for your account on a monthly, quarterly or yearly basis
+You can pay for your plan on a monthly, quarterly or yearly basis. 
 
 
 Account | Storage | Network | monthly | quarterly | yearly 

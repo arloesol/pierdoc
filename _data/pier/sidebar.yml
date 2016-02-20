@@ -35,6 +35,22 @@ entries:
       version: all
       output: web
 
+    - title: Terms of Service
+      url: /pier/terms.html
+      audience: users
+      platform: all
+      product: all
+      version: all
+      output: web
+
+    - title: Privacy Policy
+      url: /pier/privacy_policy.html
+      audience: users
+      platform: all
+      product: all
+      version: all
+      output: web
+
     - title: About Arloesol
       url: /pier/about_arloesol.html
       audience: users

@@ -39,7 +39,7 @@ You can list the docker containers on the system with command `docker ps` (runni
 
 To remove a container use the command `docker rm containerID`
 
-## what is a docker registry ?
+## What is a docker registry ?
 
 A [Docker registry] is a server-side application that stores and lets you distribute Docker images
 
