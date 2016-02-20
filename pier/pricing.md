@@ -56,7 +56,7 @@ You can see your storage and network use for the current and previous 12 monthly
 
 You can configure your alert limits which allow you to receive an email alert when this limit has been reached
  
-You can also configure excess limits which lets you use excess use op to a certain specified limit 
+You can also configure excess limits which lets you use excess storage or network up to a certain specified limit 
 
 ## Example
 
