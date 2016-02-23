@@ -43,7 +43,7 @@ We may use information about you for various purposes, including to:
 * Detect, investigate and prevent any suspected breaches of the terms applicable to the use of our Services (including, our Sites); and
 * Link or combine with information we get from others to help understand your needs and provide you with better service.
 
-Arloesol is based in the United States, and the information we collect is governed by U.S. law. By accessing or using any of our Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries.
+Arloesol is based in Belgium and uses IT services hosted in France, and the information we collect is governed by Belgian, French and European laws. By accessing or using any of our Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the Belgium, France and other countries.
 
 ## Sharing of Information
 
@@ -69,7 +69,7 @@ We may allow others to provide analytics services in connection with the Service
 
 ### Account Information
 
-If you wish to delete your account, please contact support at pier@arloesol.com. Note that we may retain certain information as required by law or for legitimate business purposes as may be necessary to fulfill the purposes identified in the privacy policy. We may also retain cached or archived copies of information (including, location information) about you for a certain period of time.
+If you wish to delete your account, please contact support at info@arloesol.com. Note that we may retain certain information as required by law or for legitimate business purposes as may be necessary to fulfill the purposes identified in the privacy policy. We may also retain cached or archived copies of information (including, location information) about you for a certain period of time.
 
 ### Cookies
 
